@@ -91,5 +91,5 @@ console.log(
 ```
 
 ## Authors
-- [Ahsan Babar](https://github.com/ahsan-babar/code-challanges)
+- [Ahsan Babar](https://github.com/ahsan-babar)
 
