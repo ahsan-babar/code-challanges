@@ -89,7 +89,18 @@ console.log(
 // { path: 'E -> B -> E -> A -> C -> F -> D', cost: 9 } 
 // { path: 'E -> B -> E', cost: 6 }
 ```
+# Testing
+```sh
+npm run test:graph
+```
+```
+SampleOutput:
+> code-challanges@1.0.0 test:graph C:\workspace\code-challanges
+> node test-graph.js
+
+All Test Cases Successfully Passed.
+```
+
 
 ## Authors
-- [Ahsan Babar](https://github.com/ahsan-babar)
-
+- [Ahsan Babar](https://github.com/ahsan-babar/code-challanges)
