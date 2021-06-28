@@ -1,0 +1,20 @@
+{
+  "name": "code-challanges",
+  "version": "1.0.0",
+  "description": "Coding Challenges & Problems",
+  "main": "index.js",
+  "scripts": {
+    "test:graph": "node test-graph.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahsan-babar/code-challanges.git"
+  },
+  "author": "Ahsan Babar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahsan-babar/code-challanges/issues"
+  },
+  "homepage": "https://github.com/ahsan-babar/code-challanges#readme"
+}
